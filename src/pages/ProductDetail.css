@@ -1,0 +1,15 @@
+.product-detail {
+    display: flex;
+    gap: 20px;
+  }
+  
+  .product-detail img {
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+  }
+  
+  .product-info {
+    flex-grow: 1;
+  }
+  

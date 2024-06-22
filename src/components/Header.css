@@ -1,0 +1,38 @@
+.header {
+  background-color: #ff6600; /* Оранжевый цвет header */
+  padding: 20px 20px; /* Увеличенные отступы */
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  color: white;
+  height: 125px; /* Увеличенная высота */
+}
+
+.header .logo {
+  font-size: 24px;
+  font-weight: bold;
+  margin-left: 50px; /* Логотип чуть правее */
+}
+
+.header .logo img {
+  height: 75px; /* Логотип больше в полтора раза */
+}
+
+.header .nav-links {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  flex-grow: 1;
+  margin-left: -100px; /* Смещение навигационных ссылок влево */
+}
+
+.header .nav-links a {
+  color: white; /* Цвет текста навигационных ссылок */
+  text-decoration: none;
+  font-size: 18px;
+}
+
+.header .nav-links a:hover {
+  color: #ffcc99; /* Цвет текста при наведении */
+  text-decoration: underline;
+}

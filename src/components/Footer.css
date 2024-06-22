@@ -1,0 +1,30 @@
+.footer {
+  background-color: #ff6600; /* Оранжевый цвет footer */
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: white;
+}
+
+.footer .social-links {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-left: 62px;
+}
+
+.footer .social-links a {
+  color: white; /* Цвет текста социальных ссылок */
+  text-decoration: none;
+  font-size: 18px;
+}
+
+.footer .social-links a:hover {
+  color: #ffcc99; /* Цвет текста при наведении */
+  text-decoration: underline;
+}
+
+.footer .copyright {
+  font-size: 18px;
+}

@@ -1,0 +1,54 @@
+/* Home.css */
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.shop-info {
+  margin-top: 10px;
+  font-size: 1.2em;
+  color: #333;
+  text-align: center;
+}
+
+.contact-form {
+  margin-top: 20px;
+  width: 100%;
+}
+
+.featured-products {
+  margin-top: 40px;
+  width: 100%;
+}
+
+.featured-products h2 {
+  margin-top: 0;
+  text-align: center;
+}
+
+.featured-products ul {
+  list-style: none;
+  padding: 0;
+}
+
+.featured-products li {
+  margin-bottom: 20px;
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 10px;
+}
+
+/* Button styles */
+.btn-primary {
+  background-color: #6c757d; /* Серый цвет фона */
+  border-color: #6c757d; /* Серый цвет границы */
+  color: white; /* Цвет текста */
+}
+
+.btn-primary:hover {
+  background-color: #5a6268; /* Более темный серый цвет при наведении */
+  border-color: #545b62; /* Более темный серый цвет границы при наведении */
+}

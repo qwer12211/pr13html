@@ -1,0 +1,25 @@
+{
+    "products": [
+      { "id": 1, "name": "Наушники Apple AirPods 2", "description": "with Charging Case, Bluetooth, вкладыши, белый ", "price": 13399, "image": "/products1.png", "category": 1 },
+      { "id": 2, "name": "Наушники Philips TWS", "description": "Bluetooth, внутриканальные, белый", "price": 2279, "image": "/products2.png", "category": 1 },
+      { "id": 3, "name": "Наушники Soul S-Nano", "description": "Bluetooth, внутриканальные, желтый цитрус", "price": 4499, "image": "/products3.png", "category": 1 },
+      { "id": 4, "name": "Наушники GEOZON Track", "description": "Bluetooth, внутриканальные, черный ", "price": 590, "image": "/products4.png", "category": 1 },
+      { "id": 5, "name": "Наушники KAIBO AUDIO Flex", "description": "Bluetooth, накладные, черный", "price": 18450, "image": "/products5.png", "category": 1 },
+      { "id": 6, "name": "Проводная моногарнитура", "description": "HyperX Cloud Chat 2022 HX-HSCCHS-BK черный", "price": 2899, "image": "/products6.png", "category": 2 },
+      { "id": 7, "name": "Проводные наушники", "description": "DISNEHyperX Cloud Stinger HHSS1X-AX-PK/G розовыйY", "price": 3999, "image": "/products7.png", "category": 2 },
+      { "id": 8, "name": "Проводные наушники", "description": "HyperX Cloud Stinger Core HX-HSCSC-BK черный", "price": 4199, "image": "/products8.png", "category": 2 },
+      { "id": 9, "name": "Проводные наушники", "description": "HyperX Cloud Stinger 2 Core черный", "price": 4799, "image": "/products9.png", "category": 2 },
+      { "id": 10, "name": "Проводные наушники", "description": "HyperX Cloud Stinger 2 Core белый", "price": 5099, "image": "/products10.png", "category": 2 },
+      { "id": 11, "name": "Наушники Xiaomi Mi In-Ear Basic", "description": "3.5 мм, внутриканальные, черный", "price": 799, "image": "/products11.png", "category": 3 },
+      { "id": 12, "name": "Наушники JBL Tune", "description": "110, 3.5 мм, внутриканальные, черный", "price": 960, "image": "/products12.png", "category": 3 },
+      { "id": 13, "name": "Мышь A4TECH Bloody V7", "description": "игровая, оптическая, проводная, USB, черный", "price": 1620, "image": "/products13.png", "category": 4 },
+      { "id": 14, "name": "Мышь Logitech G Pro", "description": "игровая, оптическая, беспроводная, USB, черный", "price": 16750, "image": "/products14.png", "category": 4 },
+      { "id": 15, "name": "Мышь Logitech G102 LightSync", "description": "игровая, оптическая, проводная, USB, черный", "price": 1899, "image": "/products15.png", "category": 4 },
+      { "id": 16, "name": "Мышь A4TECH XL-750BK", "description": "игровая, лазерная, проводная, USB, черный", "price": 2749, "image": "/products16.png", "category": 4 },
+      { "id": 17, "name": "Клавиатура Oklick 505M", "description": " USB, черный", "price": 769, "image": "/products17.png", "category": 5 },
+      { "id": 18, "name": "Клавиатура A4TECH Fstyler FS300", "description": "USB, черный серый", "price": 5990, "image": "/products18.png", "category": 5 },
+      { "id": 19, "name": "Клавиатура A4TECH Bloody B314", "description": "USB, c подставкой для запястий, черный", "price": 2999, "image": "/products19.png", "category": 5 },
+      { "id": 20, "name": "Клавиатура A4TECH Fstyler FBX50C", "description": "USB, Bluetooth/Радиоканал, белый", "price": 2580, "image": "/products20.png", "category": 5 }
+    ]
+  }
+  

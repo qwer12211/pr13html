@@ -1,0 +1,53 @@
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.card {
+  border: 1px solid #cccccc; /* Светло-серая граница */
+  border-radius: 4px;
+  padding: 15px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #f5f5f5; /* Светло-серый фон */
+}
+
+.card-img-top {
+  width: 100%;
+  height: 0;
+  padding-bottom: 100%; /* Соотношение сторон 1:1 */
+  object-fit: cover;
+  border-bottom: 1px solid #cccccc; /* Светло-серая граница изображения */
+  margin-bottom: 15px;
+  position: relative;
+}
+
+.card-img-top img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.card-title {
+  font-size: 1.25rem;
+  margin-bottom: 10px;
+  color: #333333; /* Темно-серый цвет заголовка */
+}
+
+.card-text {
+  font-size: 1rem;
+  margin-bottom: 10px;
+  color: #666666; /* Средне-серый цвет текста */
+}
+
+.mb-4 {
+  margin-bottom: 1.5rem !important;
+}
+
+.me-2 {
+  margin-right: 0.5rem;
+}
